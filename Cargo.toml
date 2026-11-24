@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "quant-common",
+    "quant-core",
+]
+resolver = "2"
